@@ -1,0 +1,62 @@
+{
+    "user" : [
+        {
+            "id": 1,
+            "game": "World of warcraft",
+            "email": "Worldofwarcraft@gmail.com",
+            "playtime": "1500 minutes",
+            "profile": "https://i.ibb.co/zQfHMcQ/wow.jpg" ,
+            "genre" : "MMORG",
+            "platform" : "PC"
+        },
+        {
+            "id": 2,
+            "game": "The last of us 2",
+            "email": "Thelastofus@gmail.com",
+            "playtime": "100 minutes",
+            "profile" : "https://i.ibb.co/PM3bZSK/the-last.png",
+            "genre" : "FPS",
+            "platform" : "PS4" 
+        },
+        {
+            "id": 3,
+            "game": "hearthstone",
+            "email": "heartstone@gmail.com",
+            "playtime": "1000",
+            "profile" : "https://i.ibb.co/qD6wt1Z/26595-capture-Hearthstone-Heroes-of-Warcraft.jpg",
+            "genre" : "Card Game",
+            "platform" : "PC"
+        },
+        {
+            "id": 4,
+            "game": "FIFA 2020",
+            "email": "fifagame@gmail.com",
+            "playtime": "2000 minutes",
+            "profile" : "https://i.ibb.co/kynhNFb/fifaaa.jpg" ,
+            "genre" : "Sport",
+            "platform" : ["PC" ,  "PS4" , "XBOX" ]
+        },
+        {
+            "id": 5,
+            "game": "Among Us 2020",
+            "email": "amongus@gmail.com",
+            "playtime": "5000 minutes",
+            "profile" : "https://i.ibb.co/TcHKkZq/among-us.png",
+            "genre" : "Multiplayer",
+            "platform" : ["PC" , "Android" ]
+        },
+        {
+            "id": 4,
+            "game": "VALORANT",
+            "email": "riotgames@gmail.com",
+            "playtime": "2000 minutes",
+            "profile" :  "https://i.ibb.co/GMPMjs6/valo-image.png" ,
+            "genre" : "FPS",
+            "platform" : ["PC"]
+        }
+
+
+
+
+    ]
+}
